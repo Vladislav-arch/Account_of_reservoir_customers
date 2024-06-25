@@ -14,5 +14,5 @@
 * sqlite3
   
 ## Опублікований продукт
-Програмний продукт можна знайти за посиланням [@fishing_buddy_bot](https://t.me/fishing_buddy_bot)
+Програмний продукт можна знайти за посиланням [fishingbot](https://t.me/fishingUD_bot)
 
